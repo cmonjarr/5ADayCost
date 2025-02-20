@@ -1,4 +1,4 @@
-# 5 a Day the Color Way Cost
+# Cost of 5 a Day the Color Way 
 
 ### Overview:
 
