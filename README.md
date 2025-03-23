@@ -8,7 +8,7 @@ Colorful fruits and vegetables provide the wide range of vitamins, minerals, and
 Many people indicate that it is expensive to achieve the '5 a Day the Color Way' goal. 
 
 ### Objective:
-This project will be used to generate the top 10 lowest cost combinations of achieving this goal. This will be done by using any form of fruits/vegetables - fresh, canned or frozen - and for each individual type. The goal is to compare the cost to determine the cheapest options and compare cost over years: 2016, 2020 and 2022.
+This project will be used to generate the top 5 lowest cost combinations of achieving this goal. This will be done by using any form of fruits/vegetables - fresh, canned or frozen - and for each individual type. The goal is to compare the cost, to determine the cheapest options and compare cost over years: 2016, 2020 and 2022.
 
 
 ---
