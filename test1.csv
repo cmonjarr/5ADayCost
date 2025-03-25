@@ -1,0 +1,158 @@
+,Produce,Form,RetailPrice,RetailPriceUnit,Yield,CupEquivalentSize,CupEquivalentUnit,CupEquivalentPrice,Year
+2,Acorn squash,Fresh,1.12, per pound,0.459,0.452,pounds,1.1,2016
+2,Apples,Fresh,1.62, per pound,0.9,0.243,pounds,0.44,2016
+3,"Apples, applesauce",Canned,1.05, per pound,1.0,0.54,pounds,0.57,2016
+5,"Apples, ready to drink",Juice,0.63, per pint,1.0,8.0,fl oz,0.32,2016
+6,"Apples, frozen concentrate",Juice,0.51, per pint,1.0,8.0,fl oz,0.26,2016
+2,Apricots,Fresh,3.09, per pound,0.93,0.364,pounds,1.21,2016
+4,Apricots,Packed in juice,1.47, per pound,1.0,0.54,pounds,0.8,2016
+5,"Apricots, Packed in syrup",Canned,1.86, per pound,0.65,0.441,pounds,1.26,2016
+6,Apricots,Dried,7.33, per pound,1.0,0.143,pounds,1.05,2016
+2,Artichoke,Fresh,2.36, per pound,0.375,0.386,pounds,2.43,2016
+3,Artichoke,Canned,3.32, per pound,0.65,0.386,pounds,1.97,2016
+4,Artichoke,Frozen,5.77, per pound,0.941,0.386,pounds,2.37,2016
+2,Asparagus,Fresh,3.08, per pound,0.494,0.397,pounds,2.47,2016
+3,Asparagus,Canned,2.72, per pound,0.65,0.397,pounds,1.66,2016
+4,Asparagus,Frozen,6.07, per pound,1.034,0.397,pounds,2.33,2016
+2,Avocados,Fresh,2.23, per pound,0.741,0.32,pounds,0.96,2016
+2,Bananas,Fresh,0.55, per pound,0.64,0.331,pounds,0.28,2016
+2,Beets,Canned,0.94, per pound,0.65,0.375,pounds,0.54,2016
+2,Berries mixed,Frozen,3.64, per pound,1.0,0.331,pounds,1.2,2016
+2,Blackberries,Fresh,5.66, per pound,0.96,0.32,pounds,1.89,2016
+3,Blackberries,Frozen,3.69, per pound,1.0,0.331,pounds,1.22,2016
+2,Blackeye peas,Canned,0.93, per pound,0.65,0.375,pounds,0.54,2016
+3,Blackeye peas,Dried,1.61, per pound,2.61,0.386,pounds,0.24,2016
+2,Black beans,Canned,0.95, per pound,0.65,0.386,pounds,0.56,2016
+3,Black beans,Dried,1.4, per pound,2.293,0.386,pounds,0.24,2016
+2,Blueberries,Fresh,4.39, per pound,0.95,0.32,pounds,1.48,2016
+3,Blueberries,Frozen,3.47, per pound,1.0,0.331,pounds,1.15,2016
+3,Broccoli,Florets,2.36, per pound,1.0,0.342,pounds,0.81,2016
+4,Broccoli,Heads,1.92, per pound,0.78,0.342,pounds,0.84,2016
+5,Broccoli,Frozen,1.82, per pound,0.882,0.342,pounds,0.71,2016
+2,Brussels sprouts,Fresh,2.96, per pound,1.06,0.342,pounds,0.95,2016
+3,Brussels sprouts,Frozen,2.04, per pound,0.96,0.342,pounds,0.73,2016
+2,Butternut squash,Fresh,1.29, per pound,0.714,0.452,pounds,0.82,2016
+2,"Cabbage, green",Fresh,0.62, per pound,0.779,0.331,pounds,0.26,2016
+3,"Cabbage, red",Fresh,1.02, per pound,0.779,0.331,pounds,0.43,2016
+4,"Cabbage, sauerkraut",Canned,1.15, per pound,0.65,0.309,pounds,0.55,2016
+2,Cantaloupe,Fresh,0.52, per pound,0.51,0.375,pounds,0.38,2016
+3,"Carrots, cooked whole",Fresh,0.77, per pound,0.816,0.32,pounds,0.3,2016
+4,"Carrots, raw whole",Fresh,0.77, per pound,0.89,0.276,pounds,0.24,2016
+5,Carrots,Raw baby,1.44, per pound,1.0,0.276,pounds,0.4,2016
+6,Carrots,Canned,0.92, per pound,0.65,0.32,pounds,0.45,2016
+7,Carrots,Frozen,1.4, per pound,0.98,0.32,pounds,0.46,2016
+3,Cauliflower florets,Fresh,3.13, per pound,0.97,0.276,pounds,0.89,2016
+4,Cauliflower heads,Fresh,1.42, per pound,0.893,0.276,pounds,0.44,2016
+5,Cauliflower,Frozen,1.68, per pound,0.93,0.276,pounds,0.5,2016
+3,"Celery, trimmed bunches",Fresh,1.09, per pound,0.73,0.265,pounds,0.4,2016
+4,Celerty sticks,Fresh,2.13, per pound,1.0,0.265,pounds,0.56,2016
+2,Cherries,Fresh,3.21, per pound,0.92,0.342,pounds,1.19,2016
+3,"Cherries, packed in syrup or water",Canned,3.73, per pound,0.65,0.441,pounds,2.53,2016
+2,Collard greens,Fresh,2.63, per pound,1.16,0.287,pounds,0.65,2016
+3,Collard greens,Canned,0.85, per pound,0.65,0.364,pounds,0.48,2016
+4,Collard greens,Frozen,1.59, per pound,0.882,0.364,pounds,0.66,2016
+2,Corn sweet,Fresh,3.26, per pound,0.54,0.364,pounds,2.2,2016
+3,Corn sweet,Canned,0.85, per pound,0.65,0.364,pounds,0.48,2016
+4,Corn sweet,Frozen,1.6, per pound,0.963,0.364,pounds,0.6,2016
+2,Cranberries,Dried,4.69,per pound,1.0,0.123,pounds,0.58,2016
+2,Cucumber with peel,Fresh,1.26, per pound,0.97,0.265,pounds,0.34,2016
+3,Cucumber without peel,Fresh,1.26, per pound,0.73,0.265,pounds,0.46,2016
+2,Dates,Dried,5.51, per pound,1.0,0.165,pounds,0.91,2016
+2,Figs,Dried,6.13, per pound,0.96,0.165,pounds,1.06,2016
+3,Fruit cocktail,Packed in juice,1.41, per pound,1.0,0.54,pounds,0.76,2016
+4,Fruit cocktail,Packed in syrup or water,1.26, per pound,0.65,0.441,pounds,0.86,2016
+2,Grapefruit,Fresh,1.01, per pound,0.49,0.463,pounds,0.95,2016
+3,Grapefruit,"Juice, ready to drink",0.85, per pint,1.0,8.0,fl oz,0.42,2016
+2,Grapes,Fresh,2.24, per pound,0.96,0.331,pounds,0.77,2016
+3,Grapes,Raisins,3.58, per pound,1.0,0.165,pounds,0.59,2016
+5,"Grapes, ready to drink",Juice,0.85, per pint,1.0,8.0,fl oz,0.42,2016
+6,"Grapes, frozen concentrate",Juice,0.74, per pint,1.0,8.0,fl oz,0.37,2016
+2,Great northern beans,Canned,0.87, per pound,0.65,0.386,pounds,0.52,2016
+3,Great northern beans,Dried,1.59, per pound,2.399,0.386,pounds,0.26,2016
+2,Green beans,Fresh,2.13, per pound,0.847,0.276,pounds,0.69,2016
+3,Green beans,Canned,0.82, per pound,0.65,0.298,pounds,0.38,2016
+4,Green beans,Frozen,1.7, per pound,0.903,0.298,pounds,0.56,2016
+2,Green peas,Canned,0.99, per pound,0.65,0.353,pounds,0.54,2016
+3,Green peas,Frozen,1.66, per pound,0.892,0.353,pounds,0.66,2016
+2,Green peppers,Fresh,1.49, per pound,0.82,0.265,pounds,0.48,2016
+2,Honeydew,Fresh,0.83, per pound,0.46,0.375,pounds,0.67,2016
+2,Kale,Fresh,2.88, per pound,1.05,0.287,pound,0.79,2016
+3,Kale,Frozen,2.07, per pound,0.899,0.364,pound,0.84,2016
+2,Kidney beans,Canned,0.86, per pound,0.65,0.386,pounds,0.51,2016
+3,Kidney beans,Dried,1.69, per pound,2.399,0.386,pounds,0.27,2016
+2,Kiwi,Fresh,2.18, per pound,0.76,0.386,pounds,1.11,2016
+2,Lentils,Dried,1.56, per pound,2.716,0.386,pounds,0.22,2016
+2,Lettuce iceberg,Fresh,1.09, per pound,0.95,0.243,pounds,0.28,2016
+3,"Lettuce, romaine, heads",Fresh,1.48, per pound,0.94,0.209,pounds,0.33,2016
+4,"Lettuce, romaine, hearts",Fresh,2.55, per pound,0.85,0.209,pounds,0.63,2016
+2,Lima beans,Canned,1.33, per pound,0.65,0.375,pounds,0.77,2016
+3,Lima beans,Frozen,1.9, per pound,1.097,0.375,pounds,0.65,2016
+4,Lima beans,Dried,2.22, per pound,2.504,0.386,pounds,0.34,2016
+2,Mangoes,Fresh,1.32, per pound,0.71,0.364,pounds,0.68,2016
+3,Mangoes,Dried,10.16, per pound,1.0,0.125,pounds,1.27,2016
+3,Mixed vegetables,Canned,1.12, per pound,0.65,0.334,pounds,0.57,2016
+4,Mixed vegetables,Frozen,1.34, per pound,0.99,0.302,pounds,0.41,2016
+6,Mixed vegetables,Canned,1.13, per pound,0.65,0.374,pounds,0.65,2016
+7,Mixed vegetables,Frozen,1.79, per pound,1.0,0.374,pounds,0.67,2016
+3,"Mushrooms, whole",Fresh,3.55, per pound,0.97,0.154,pounds,0.56,2016
+4,"Mushrooms, sliced",Fresh,3.81, per pound,1.0,0.154,pounds,0.59,2016
+2,Mustard greens,Fresh,2.68, per pound,0.84,0.309,pounds,0.98,2016
+3,Mustard greens,Canned,0.82, per pound,0.65,0.331,pounds,0.42,2016
+4,Mustard greens,Frozen,1.56, per pound,0.748,0.331,pounds,0.69,2016
+2,Navy beans,Canned,0.95, per pound,0.65,0.386,pounds,0.56,2016
+3,Navy beans,Dried,1.48, per pound,2.399,0.386,pounds,0.24,2016
+2,Nectarines,Fresh,1.88, per pound,0.91,0.32,pounds,0.66,2016
+2,Okra,Fresh,3.82, per pound,0.769,0.35,pounds,1.75,2016
+3,Okra,Frozen,1.57, per pound,0.899,0.37,pounds,0.65,2016
+2,Olives,Canned,5.09, per pound,1.0,0.298,pounds,1.51,2016
+2,Onions,Fresh,1.05, per pound,0.9,0.353,pounds,0.41,2016
+2,Oranges,Fresh,1.1, per pound,0.68,0.408,pounds,0.66,2016
+4,"Oranges, ready to drink",Juice,0.85, per pint,1.0,8.0,fl oz,0.42,2016
+5,"Oranges, frozen concentrate",Juice,0.66, per pint,1.0,8.0,fl oz,0.33,2016
+2,Papaya,Fresh,1.29, per pound,0.62,0.309,pounds,0.64,2016
+3,Papaya,Dried,5.27, per pound,1.0,0.154,pounds,0.81,2016
+2,Peaches,Fresh,1.68, per pound,0.96,0.342,pounds,0.6,2016
+4,"Peaches, packed in juice",Canned,1.88, per pound,1.0,0.54,pounds,1.02,2016
+5,"Peaches, packed in syrup or water",Canned,1.59, per pound,0.65,0.441,pounds,1.08,2016
+6,Peaches,Frozen,3.19, per pound,1.0,0.331,pounds,1.05,2016
+2,Pears,Fresh,1.52, per pound,0.9,0.364,pounds,0.61,2016
+4,"Pears, packed in juice",Canned,1.79, per pound,1.0,0.54,pounds,0.97,2016
+5,"Pears, packed in syrup or water",Canned,1.57, per pound,0.65,0.441,pounds,1.07,2016
+2,Pineapple,Fresh,0.65, per pound,0.51,0.364,pounds,0.47,2016
+4,Pineapple,Packed in juice,1.28, per pound,1.0,0.54,pounds,0.69,2016
+5,Pineapple,Packed in syrup or water,1.36, per pound,0.65,0.441,pounds,0.92,2016
+6,Pineapple,Dried,5.87, per pound,1.0,0.154,pounds,0.91,2016
+8,Pineapple,Ready to drink,0.97, per pint,1.0,8.0,fl oz,0.49,2016
+9,Pineapple,Frozen,0.62, per pint,1.0,8.0,fl oz,0.31,2016
+2,Pinto beans,Canned,0.8, per pound,0.65,0.386,pounds,0.48,2016
+3,Pinto beans,Dried,1.09, per pound,2.399,0.386,pounds,0.17,2016
+2,Plums,Fresh,1.99, per pound,0.94,0.364,pounds,0.77,2016
+3,Plums (prunes),Dried,4.73, per pound,1.0,0.187,pounds,0.89,2016
+4,"Plums (oprunes), ready to drink",Juice,1.45, per pint,1.0,8.0,fl oz,0.72,2016
+2,Pomegranate,Fresh,2.08, per pound,0.56,0.342,pounds,1.27,2016
+3,"Pomegranate, ready to drink",Juice,3.01, per pint,1.0,8.0,fl oz,1.51,2016
+2,Potatoes,Fresh,0.6, per pound,0.811,0.265,pounds,0.2,2016
+3,"Potatoes, french fries",Frozen,1.22, per pound,0.776,0.342,pounds,0.54,2016
+4,Potatoes,Canned,0.9, per pound,0.65,0.342,pounds,0.47,2016
+2,Pumpkin,Canned,1.38, per pound,1.0,0.54,pounds,0.74,2016
+2,Radish,Fresh,1.46, per pound,0.9,0.276,pounds,0.45,2016
+2,Raspberries,Fresh,6.88, per pound,0.96,0.32,pounds,2.29,2016
+3,Raspberries,Frozen,4.76, per pound,1.0,0.331,pounds,1.58,2016
+2,Red peppers,Fresh,2.32, per pound,0.82,0.265,pounds,0.75,2016
+3,Spinach,Boiled,3.83, per pound,0.77,0.331,pounds,1.64,2016
+4,Spinach,Raw,3.83, per pound,1.0,0.154,pounds,0.59,2016
+5,Spinach,Canned,1.13, per pound,0.65,0.375,pounds,0.65,2016
+6,Spinach,Frozen,1.76, per pound,0.776,0.375,pounds,0.85,2016
+2,Strawberries,Fresh,2.51, per pound,0.94,0.32,pounds,0.85,2016
+3,Strawberries,Frozen,2.61, per pound,1.0,0.331,pounds,0.86,2016
+2,Summer squash,Fresh,1.64, per pound,0.77,0.397,pounds,0.85,2016
+2,Sweet potatoes,Fresh,1.05, per pound,0.811,0.441,pounds,0.57,2016
+2,Tangerines,Fresh,1.48,per pound,0.74,0.408,pounds,0.82,2016
+3,"Tomatoes, grape and cherry",Fresh,3.48, per pound,0.91,0.375,pounds,1.43,2016
+4,"Tomatoes, roma and plum",Fresh,1.29, per pound,0.91,0.375,pounds,0.53,2016
+5,"Tomatoes, Large round",Fresh,2.01, per pound,0.91,0.375,pounds,0.83,2016
+6,Tomatoes,Canned,0.91, per pound,1.0,0.54,pounds,0.49,2016
+2,Turnip greens,Fresh,2.51, per pound,0.75,0.32,pounds,1.07,2016
+3,Turnip greens,Canned,0.78, per pound,0.65,0.353,pounds,0.43,2016
+4,Turnip greens,Frozen,1.58, per pound,0.776,0.353,pounds,0.72,2016
+2,Watermelon,Fresh,0.32, per pound,0.52,0.331,pounds,0.2,2016
